@@ -1,5 +1,7 @@
 # Chip8 Decompiler
 
+⚠️ *This project is functionally broken and is kept here for archival purposes. Due to discovered flaws and difficulties implementing features, I will not be providing further updates or fixes. The hassle of Chip8 quirks, it's self-modifying code, and the indirect JumpV0 instruction has killed my vibe.*
+
 Turn Chip8 roms into a readable python-style pseudo code or pseudo-assembly.
 
 *Pseudo Code:*
